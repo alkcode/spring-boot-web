@@ -1,1 +1,3 @@
-Archivo creado desde visual
+Archivo creado desde visual y es modificado hasta crear conflicto
+
+segunda modificacion
