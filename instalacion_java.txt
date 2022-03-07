@@ -3,3 +3,9 @@
 3.Configurar path en una carpeta elegida por el usuario (Disco local C:)
 4.Seguir
 5.Descompresion del ZIP de openjdk y copiar en la carpeta destinada para el usuario
+6.Vamos a las variables de entorno y buscamos en path.
+
+//alekseimartinez26
+7.Agregamos las variables de entorno y tambien en la variable path
+8.Abrimos la consola (cmd) y escribimos java --version
+9.Aparecera la version que descargamos 
