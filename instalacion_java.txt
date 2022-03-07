@@ -2,3 +2,4 @@
 2.Descomprimir archivo.
 3.Configurar path en una carpeta elegida por el usuario (Disco local C:)
 4.Seguir
+5.
