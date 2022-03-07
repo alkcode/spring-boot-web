@@ -8,4 +8,6 @@
 //alekseimartinez26
 7.Agregamos las variables de entorno y tambien en la variable path
 8.Abrimos la consola (cmd) y escribimos java --version
-9.Aparecera la version que descargamos 
+9.Aparecera la version que descargamos y tiene que coincidir
+10.Comprobar el compiler
+11.
